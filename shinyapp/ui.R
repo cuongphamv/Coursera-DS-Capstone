@@ -1,8 +1,8 @@
-# ui.R
+
 # Author: Cuong Pham V
 # Date: June 21, 2024
-# Description: Shiny UI, Coursera Data Science Capstone Final Project
-# GitHub: https://github.com/cuongphamv/Coursera-DS-Capstone
+# Description: Shiny UI, John Hopkins Data Science Final Project
+
 
 library(shiny)
 library(shinythemes)
