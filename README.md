@@ -20,7 +20,7 @@ Finally, the top 3 predictions, using a simple back-off model, are being calcula
 
 ## <span style="font-size:larger;"> Additional information </span>
 
-Next word prediction app is hosted on shinyapps.io [here](https://vp0d2b-cuong-pham.shinyapps.io/Predictor/ )
+Next word prediction app is hosted on shinyapps.io [here](https://vp0d2b-cuong-pham.shinyapps.io/Predictor/)
 
 You can find all the code, the milestone report, the presentation etc. in this Github repo [here](https://github.com/cuongphamv/Coursera-DS-Capstone.git) 
 
