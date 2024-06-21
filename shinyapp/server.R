@@ -1,7 +1,7 @@
 
 # Author: Cuong Pham V
 # Date: June 21, 2024
-# Description: Shiny UI, Data Science Capstone Final Project
+# Description: Shiny Server, John Hopkins Data Science Final Project
 
 
 
