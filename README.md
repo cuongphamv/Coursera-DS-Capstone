@@ -1,4 +1,7 @@
-###### Data Science Coursera Specialization Capstone Project
+
+
+## <span style="font-size:larger;">Data Science Coursera Specialization Capstone Project</span>
+
 
 The goal of the Data Science Capstone Project from Johns Hopkins University (JHU) is to create a usable application on natural language processing. This capstone project is offered in collaboration with SwiftKey.
 
