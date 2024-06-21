@@ -1,13 +1,14 @@
 
 
-# <span style="font-size:larger;">Data Science Coursera Specialization Capstone Project</span>
+# <span style="font-size:larger;"> John Hopkins : Data Science Specialization Capstone Project</span>
 
 
 The goal of the Data Science Capstone Project from Johns Hopkins University (JHU) is to create a usable application on natural language processing. This capstone project is offered in collaboration with SwiftKey.
 
 The objective of the project is to build a functioning predictive text model. The data is from a corpus called HC Corpora, and, for this application, only the english datasets have been utilized.
 
-Prediction Model
+## <span style="font-size:larger;"> Prediction Model </span>
+
 
 For this project, the Text Mining packages tm and text2vec were used, along with the data manipulation package dplyr and the package doParallel. The app was created using the shiny package.
 
@@ -17,7 +18,7 @@ The data was then tokenized to form Maximum Likelihood Estimation (MLE) matrices
 
 Finally, the top 3 predictions, using a simple back-off model, are being calculated as predictions to the user input. The reason for having 3 predictions instead of 1 is that the accuracy the user experiences is substantially increased.
 
-Additional Information
+## <span style="font-size:larger;"> Additional information </span>
 
 Next word prediction app is hosted on shinyapps.io here.
 
