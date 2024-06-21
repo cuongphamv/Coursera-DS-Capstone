@@ -1,6 +1,5 @@
-# build-ngram.R
 # Author: Cuong Pham V
-# Date: 15-05-2024
+# Date: June 21, 2024
 # Description: Prepare n-gram frequencies
 
 
