@@ -18,6 +18,6 @@ Additional Information
 
 Next word prediction app is hosted on shinyapps.io here.
 
-You can find all the code, the milestone report, the presentation etc. in this Github repo here.
+You can find all the code, the milestone report, the presentation etc. in this Github repo 
 
-Although there has been a lot of deviation from that, the milestone report can be found here.
+Although there has been a lot of deviation from that, the milestone report can be found at [here](https://rpubs.com/cuongpham/1152496).
