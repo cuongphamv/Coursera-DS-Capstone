@@ -16,7 +16,7 @@ library(data.table)
 # ------------------------------------------------------------------------------
 
 rm(list = ls(all.names = TRUE))
-setwd("/Users/cuongpham/library/CloudStorage/Dropbox/Data work/Data Science/Course 10-Capstone")
+setwd("/Users/cuongpham/Documents/Data work/Course 10-Capstone")
 
 # ------------------------------------------------------------------------------
 # Download, unzip and load the training data
