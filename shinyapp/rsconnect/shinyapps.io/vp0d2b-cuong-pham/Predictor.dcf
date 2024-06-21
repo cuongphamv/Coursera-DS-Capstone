@@ -1,0 +1,13 @@
+name: Predictor
+title: Predictor
+username:
+account: vp0d2b-cuong-pham
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12215122
+bundleId: 8771493
+url: https://vp0d2b-cuong-pham.shinyapps.io/Predictor/
+when: 1718958987.8158
+lastSyncTime: 1718958987.81581
+asMultiple: FALSE
+asStatic: FALSE
