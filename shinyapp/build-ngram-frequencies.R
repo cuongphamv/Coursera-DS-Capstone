@@ -1,6 +1,6 @@
 # Author: Cuong Pham V
 # Date: June 21, 2024
-# Description: Prepare n-gram frequencies
+# Description: Prepare n-gram frequencies: John Hopkins Data Science Final Project
 
 
 library(tm)
